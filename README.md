@@ -26,4 +26,4 @@ A fully responsive real estate app built with Flutter, designed for both **mobil
 - **Stateful & Stateless Widgets**
 
 ## 🚀 📌 Notes:
-- This project was developed as part of the Mastering Cross-Platform Mobile Development with Flutter workshop at ARRK Research & Development S.R.L..
+- This project was developed as part of the Mastering Cross-Platform Mobile Development with Flutter workshop at ARRK Engineering Academy.
