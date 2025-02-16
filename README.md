@@ -1,16 +1,29 @@
-# workshopflutter
+# Real Estate Flutter App 🏡
 
-A new Flutter project.
+A fully responsive real estate app built with Flutter, designed for both **mobile** and **desktop** platforms. This application allows users to **browse, filter, and view** real estate listings with a modern and intuitive interface.
 
-## Getting Started
+## ✨ Features:
+- **Responsive Design**: Adapts seamlessly between mobile and desktop layouts.
+- **Property Listings**: Display detailed real estate properties with images, pricing, and descriptions.
+- **Search & Filters**: Easily find properties based on location, number of rooms, and bathrooms.
+- **Favorites**: Mark properties as favorites for quick access.
+- **Detailed View**: Explore each property with a dedicated details page, including images and owner information.
+- **Smooth Navigation**: Uses Flutter’s navigation to transition between screens.
 
-This project is a starting point for a Flutter application.
+## 📂 Project Structure:
+- **`main.dart`** - Entry point of the app, handling responsive layout selection.
+- **`home_mobile_page.dart`** - UI for browsing properties on mobile devices.
+- **`home_desktop_page.dart`** - Desktop-optimized UI with an enhanced browsing experience.
+- **`item_detail_page.dart` & `item_detail_page_d.dart`** - Property details for mobile and desktop versions.
+- **`responsive_layout.dart`** - Determines whether to load the mobile or desktop UI based on screen size.
+- **`house_model_d.dart`** - Defines the data structure for property listings.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used:
+- **Flutter (Dart)**
+- **Material Design**
+- **Carousel Slider** (for property images)
+- **Google Fonts**
+- **Stateful & Stateless Widgets**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 📌 Notes:
+- This project was developed as part of the Mastering Cross-Platform Mobile Development with Flutter workshop at ARRK Research & Development S.R.L..
